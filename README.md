@@ -23,4 +23,10 @@ Vous découvrirez également les avantages de ReactJS, et un aperçu de l'archit
 
 Pour chaque article existe une branche sur le dépot pour pouvoir suivre pas à pas la serie:
 
-0. [main](https://github.com/Djemai-Samy/react-initiation)
+- [main](https://github.com/Djemai-Samy/react-initiation)
+- [1-introduction](https://github.com/Djemai-Samy/react-initiation/tree/1-introduction)
+- [2-components](https://github.com/Djemai-Samy/react-initiation/tree/2-components)
+- [3-states](https://github.com/Djemai-Samy/react-initiation/tree/3-states)
+- [4-hooks](https://github.com/Djemai-Samy/react-initiation/tree/4-hooks)
+- [5-navigation](https://github.com/Djemai-Samy/react-initiation/tree/5-navigation)
+- [6-todos](https://github.com/Djemai-Samy/react-initiation/tree/6-todos)
