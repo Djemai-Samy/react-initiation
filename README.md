@@ -1,5 +1,7 @@
 # ReactJS Inititation
 
+![Image du cours: ReactJSJ: Initiation](https://djemai-samy.com/blog/2.programmation/1.web/react/react-initiation/react-initiation.png)
+
 La branche 'main' contient le code de départ de la série de cours.
 
 Ce cous consiste en une introduction pour découvrir ReactJS, et vous permettra de vous familiariser avec les bases de cette bibliothèque pour construire des applications web plus complexes.
