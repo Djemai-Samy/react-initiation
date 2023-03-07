@@ -53,7 +53,7 @@ Prenons pour exemple une application simple avec deux composants pour simuler de
 
 Le dossier src resemblerai ceci:
 
-```
+```bash
 📂src
 ┣ 📂components
 ┃  ┗ 📂pages
@@ -168,9 +168,9 @@ Il est important de **noter que ce cours n'a été qu'une introduction à `react
 
 Si vous souhaitez **approfondir vos connaissances**, nous vous **recommandons les ressources suivantes** :
 
-- [***La documentation officielle de React-router-dom.***]('https://reactrouter.com/web/guides/quick-start')
-- [***Les tutoriels de React-router-dom sur le site officiel de React.***]('https://fr.reactjs.org/docs/code-splitting.html')
+- [***La documentation officielle de React-router-dom.***](https://reactrouter.com/web/guides/quick-start)
+- [***Les tutoriels de React-router-dom sur le site officiel de React.***](https://fr.reactjs.org/docs/code-splitting.html)
 
 ## Aller plus loin
 
-[Tutoriel ReactJS: TodoList]("https://djemai-samy.com/posts/6.react-todos.article")
+[Tutoriel ReactJS: TodoList](https://djemai-samy.com/posts/6.react-todos.article)
