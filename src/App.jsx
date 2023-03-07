@@ -1,9 +1,10 @@
+import TodoList from "./components/TodoList";
 import "./style.css";
 
 const App = () => {
 	return (
 		<div className="container">
-			<h1>Simple React App made with Smartmake!</h1>
+			<TodoList />
 		</div>
 	);
 };
