@@ -174,7 +174,7 @@ Nous avons ensuite **intégré `TodoForm` directement dans `TodoList`**.
 Pour `TodoItem`, nous avons **créé une `div` pour contenir toutes les tâches de la liste**.
 
 Nous avons également **utilisé** les `props` pour **envoyer au composant** `TodoItem` les **informations à afficher** de chaque tâche.
-![Resultat d'affichage sur la page web de la structure basique des composant ReactJS TodoList](https://djemai-samy.com//blog/2.programmation/1.web/react/react-initiation/react-todos/react-todos-TodoList.png")
+![Resultat d'affichage sur la page web de la structure basique des composant ReactJS TodoList](https://www.djemai-samy.com/blog/2.programmation/1.web/react/react-initiation/react-todos/react-todos-TodoList.png)
 
 ---
 
